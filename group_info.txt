@@ -5,3 +5,8 @@ Member 3: Name -
 Course Code: CSE412
 Lab Work: 06
 Topic: Git Repository
+
+
+Department: Computer Science and Engineering
+University: East West University
+Git Learning Status: In Progress
