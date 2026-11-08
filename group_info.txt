@@ -1,0 +1,7 @@
+Group Number: 07
+Member 1: Name - 2024-3-60-477
+Member 2: Name - 
+Member 3: Name -
+Course Code: CSE412
+Lab Work: 06
+Topic: Git Repository
